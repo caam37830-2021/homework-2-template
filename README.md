@@ -231,7 +231,7 @@ Note: Strassen's algorithm is not as stable (numerically speaking) as standard m
 Also note that the optimal exponent for matrix-matrix multiplication is still unknown.  The best value so far is due to Coppersmith and Winograd, and has a value of about 2.37.  This algorithm would be impractical to implement.
 
 
-## Problem 3 - Markov Chains (20 points)
+## Problem 2 - Markov Chains (20 points)
 
 A Markov Chain models a random walk through a sequence of states. We'll consider a simple random walk on a 1-dimensional grid.  A "classic" description of the problem is that a drunk (or very confused) person wanders down the sidewalk.  However, because they are easily confused, they choose whether to take a step forward or backward with equal probability.
 
